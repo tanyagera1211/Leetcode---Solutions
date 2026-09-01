@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tanyagera1211/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanyagera1211/Leetcode---Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tanyagera1211/Leetcode---Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -19,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tanyagera1211/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/tanyagera1211/Leetcode---Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/tanyagera1211/Leetcode---Solutions/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tanyagera1211/Leetcode---Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
